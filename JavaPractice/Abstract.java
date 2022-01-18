@@ -6,7 +6,6 @@ abstract class Writer
 	public void show()
 	{
 		System.out.println("Abstract Class - Non Abstract Method");
-		System.out.println("Hello World");
 	}
 
 }
